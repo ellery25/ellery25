@@ -6,7 +6,7 @@
 ## 🧠 About Me
 
 💻 I'm a developer focused on building real-world solutions  
-⚙️ I love automation, backend systems and real-time data  
+⚙️ I love automation, backend systems
 📱 Also building mobile apps with Flutter  
 🚗 Passionate about cars, tech and innovation  
 
