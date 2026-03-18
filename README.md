@@ -62,8 +62,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ellery25&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ellery25&theme=tokyonight"/>
 </p>
 
 ---
@@ -71,7 +71,7 @@
 ## 🤝 Connect with me
 
 <p align="left">
-  <a href="https://github.com/TU_USERNAME" target="_blank">
+  <a href="https://github.com/ellery25" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   </a>
 </p>
