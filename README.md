@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ellery and I'm a system engineeer, from Colombia </p>
+<p align="left">My name is Ellery and I'm a system engineer, from Colombia </p>
 
 ###
 
